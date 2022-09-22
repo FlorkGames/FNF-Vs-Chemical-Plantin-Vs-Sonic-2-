@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aspect.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aspect0000" x="0" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="aspect0001" x="1330" y="0" width="1280" height="720"/>
+	<SubTexture name="aspect0002" x="2660" y="0" width="1280" height="720"/>
+	<SubTexture name="aspect0003" x="3990" y="0" width="1280" height="720"/>
+	<SubTexture name="aspect0004" x="5320" y="0" width="1280" height="720"/>
+	<SubTexture name="aspect0005" x="6650" y="0" width="1280" height="720"/>
+	<SubTexture name="aspect0006" x="0" y="770" width="1280" height="720"/>
+	<SubTexture name="aspect0007" x="1330" y="770" width="1280" height="720"/>
+	<SubTexture name="aspect0008" x="2660" y="770" width="1280" height="720"/>
+	<SubTexture name="aspect0009" x="3990" y="770" width="1280" height="720"/>
+	<SubTexture name="aspect0010" x="5320" y="770" width="1280" height="720"/>
+	<SubTexture name="aspect0011" x="6650" y="770" width="1280" height="720"/>
+	<SubTexture name="aspect0012" x="0" y="1540" width="1280" height="720"/>
+	<SubTexture name="aspect0013" x="1330" y="1540" width="1280" height="720"/>
+	<SubTexture name="aspect0014" x="2660" y="1540" width="1280" height="720"/>
+	<SubTexture name="aspect0015" x="3990" y="1540" width="1280" height="720"/>
+	<SubTexture name="aspect0016" x="5320" y="1540" width="1280" height="720"/>
+	<SubTexture name="aspect0017" x="6650" y="1540" width="1280" height="720"/>
+	<SubTexture name="aspect0018" x="0" y="2310" width="1280" height="720"/>
+	<SubTexture name="aspect0019" x="1330" y="2310" width="1280" height="720"/>
+	<SubTexture name="aspect0020" x="2660" y="2310" width="1280" height="720"/>
+	<SubTexture name="aspect0021" x="3990" y="2310" width="1280" height="720"/>
+	<SubTexture name="aspect0022" x="5320" y="2310" width="1280" height="720"/>
+	<SubTexture name="aspect0023" x="6650" y="2310" width="1280" height="720"/>
+	<SubTexture name="aspect0024" x="0" y="3080" width="1280" height="720"/>
+	<SubTexture name="aspect0025" x="1330" y="3080" width="1280" height="720"/>
+	<SubTexture name="aspect0026" x="2660" y="3080" width="1280" height="720"/>
+	<SubTexture name="aspect0027" x="3990" y="3080" width="1280" height="720"/>
+	<SubTexture name="aspect0028" x="5320" y="3080" width="1280" height="720"/>
+	<SubTexture name="aspect0029" x="6650" y="3080" width="1280" height="720"/>
+	<SubTexture name="aspect0030" x="0" y="3850" width="1280" height="720"/>
+	<SubTexture name="aspect0031" x="1330" y="3850" width="1280" height="720"/>
+	<SubTexture name="aspect0032" x="2660" y="3850" width="1280" height="720"/>
+	<SubTexture name="aspect0033" x="3990" y="3850" width="1280" height="720"/>
+	<SubTexture name="aspect0034" x="5320" y="3850" width="1280" height="720"/>
+	<SubTexture name="aspect0035" x="6650" y="3850" width="1280" height="720"/>
+	<SubTexture name="aspect0036" x="0" y="4620" width="1280" height="720"/>
+	<SubTexture name="aspect0037" x="1330" y="4620" width="1280" height="720"/>
+	<SubTexture name="aspect0038" x="2660" y="4620" width="1280" height="720"/>
+	<SubTexture name="aspect0039" x="3990" y="4620" width="1280" height="720"/>
+	<SubTexture name="aspect0040" x="5320" y="4620" width="1280" height="720"/>
+	<SubTexture name="aspect0041" x="6650" y="4620" width="1280" height="720"/>
+	<SubTexture name="aspect0042" x="0" y="5390" width="1280" height="720"/>
+	<SubTexture name="aspect0043" x="1330" y="5390" width="1280" height="720"/>
+	<SubTexture name="aspect0044" x="2660" y="5390" width="1280" height="720"/>
+	<SubTexture name="aspect0045" x="3990" y="5390" width="1280" height="720"/>
+	<SubTexture name="aspect0046" x="5320" y="5390" width="1280" height="720"/>
+	<SubTexture name="aspect0047" x="6650" y="5390" width="1280" height="720"/>
+</TextureAtlas>
