@@ -2,19 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-45,
-				40
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "idle"
-		},
-		{
-			"offsets": [
-				-36,
-				42
+				62,
+				-164
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-30,
-				20
+				-10,
+				-294
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-80,
-				72
+				-53,
+				-142
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-90,
-				32
+				-76,
+				-160
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,66 +46,44 @@
 		},
 		{
 			"offsets": [
-				-63,
-				43
+				-50,
+				-160
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFTmiss",
+			"anim": "idle",
 			"indices": [],
-			"name": "miss"
+			"name": "idle"
 		},
 		{
 			"offsets": [
-				-63,
-				43
+				0,
+				-400
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWNmiss",
+			"anim": "spin",
 			"indices": [],
-			"name": "miss"
-		},
-		{
-			"offsets": [
-				-63,
-				43
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "miss"
-		},
-		{
-			"offsets": [
-				-63,
-				43
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "miss"
+			"name": "spindash"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfsonic",
+	"image": "characters/sonic",
 	"position": [
-		0,
-		350
-	],
-	"healthicon": "bf",
-	"flip_x": true,
-	"healthbar_colors": [
-		49,
-		176,
-		209
-	],
-	"camera_position": [
 		0,
 		0
 	],
-	"sing_duration": 4,
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		72,
+		255
+	],
+	"camera_position": [
+		-170,
+		220
+	],
+	"sing_duration": 6.1,
 	"scale": 1.1
 }
