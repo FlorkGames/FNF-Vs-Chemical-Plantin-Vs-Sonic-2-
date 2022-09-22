@@ -1,0 +1,41 @@
+{
+	"storyName": "chemical funkin'",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "cpz",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"chemix",
+			"sonic",
+			[
+				255,
+				0,
+				255
+			]
+		],
+		[
+			"dash",
+			"sonic",
+			[
+				255,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "chemical",
+	"hiddenUntilUnlocked": false
+}
