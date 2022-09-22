@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ratings.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="?0000" x="50" y="50" width="293" height="293" pivotX="0" pivotY="0"/>
+	<SubTexture name="?0001" x="50" y="50" width="293" height="293"/>
+	<SubTexture name="?0002" x="50" y="50" width="293" height="293"/>
+	<SubTexture name="?0003" x="50" y="50" width="293" height="293"/>
+	<SubTexture name="A0000" x="393" y="50" width="292" height="292" pivotX="4.5" pivotY="7.6"/>
+	<SubTexture name="A0001" x="735" y="50" width="292" height="292"/>
+	<SubTexture name="A0002" x="735" y="50" width="292" height="292"/>
+	<SubTexture name="A0003" x="1077" y="50" width="292" height="292"/>
+	<SubTexture name="A0004" x="1077" y="50" width="292" height="292"/>
+	<SubTexture name="A0005" x="1419" y="50" width="292" height="292"/>
+	<SubTexture name="A0006" x="1419" y="50" width="292" height="292"/>
+	<SubTexture name="B0000" x="1761" y="50" width="292" height="292" pivotX="4.5" pivotY="7.6"/>
+	<SubTexture name="B0001" x="1761" y="50" width="292" height="292"/>
+	<SubTexture name="B0002" x="2103" y="50" width="292" height="292"/>
+	<SubTexture name="B0003" x="2103" y="50" width="292" height="292"/>
+	<SubTexture name="B0004" x="2445" y="50" width="292" height="292"/>
+	<SubTexture name="B0005" x="2445" y="50" width="292" height="292"/>
+	<SubTexture name="C0000" x="2787" y="50" width="292" height="292" pivotX="4.5" pivotY="7.6"/>
+	<SubTexture name="C0001" x="2787" y="50" width="292" height="292"/>
+	<SubTexture name="C0002" x="3129" y="50" width="292" height="292"/>
+	<SubTexture name="C0003" x="3129" y="50" width="292" height="292"/>
+	<SubTexture name="C0004" x="3129" y="50" width="292" height="292"/>
+	<SubTexture name="C0005" x="3471" y="50" width="292" height="292"/>
+	<SubTexture name="C0006" x="3471" y="50" width="292" height="292"/>
+	<SubTexture name="D0000" x="50" y="393" width="292" height="292" pivotX="4.5" pivotY="7.6"/>
+	<SubTexture name="D0001" x="50" y="393" width="292" height="292"/>
+	<SubTexture name="D0002" x="50" y="393" width="292" height="292"/>
+	<SubTexture name="D0003" x="50" y="393" width="292" height="292"/>
+	<SubTexture name="E0000" x="392" y="393" width="292" height="292" pivotX="4.5" pivotY="7.6"/>
+	<SubTexture name="E0001" x="392" y="393" width="292" height="292"/>
+	<SubTexture name="E0002" x="734" y="393" width="292" height="292"/>
+	<SubTexture name="E0003" x="734" y="393" width="292" height="292"/>
+	<SubTexture name="E0004" x="1076" y="393" width="292" height="292"/>
+	<SubTexture name="E0005" x="1076" y="393" width="292" height="292"/>
+	<SubTexture name="F0000" x="1418" y="393" width="292" height="292" pivotX="4.5" pivotY="7.6"/>
+	<SubTexture name="F0001" x="1418" y="393" width="292" height="292"/>
+	<SubTexture name="F0002" x="1760" y="393" width="292" height="292"/>
+	<SubTexture name="F0003" x="1760" y="393" width="292" height="292"/>
+	<SubTexture name="PLUS0000" x="2102" y="393" width="300" height="292" pivotX="9.2" pivotY="7.6"/>
+	<SubTexture name="PLUS0001" x="2102" y="393" width="300" height="292"/>
+	<SubTexture name="PLUS0002" x="2452" y="393" width="300" height="292"/>
+	<SubTexture name="PLUS0003" x="2452" y="393" width="300" height="292"/>
+	<SubTexture name="PLUS0004" x="2802" y="393" width="300" height="292"/>
+	<SubTexture name="PLUS0005" x="2802" y="393" width="300" height="292"/>
+	<SubTexture name="PLUS0006" x="3152" y="393" width="300" height="292"/>
+	<SubTexture name="PLUS0007" x="3152" y="393" width="300" height="292"/>
+	<SubTexture name="PLUS0008" x="3502" y="393" width="300" height="292"/>
+	<SubTexture name="PLUS0009" x="3502" y="393" width="300" height="292"/>
+	<SubTexture name="PLUS0010" x="50" y="735" width="300" height="292"/>
+	<SubTexture name="PLUS0011" x="50" y="735" width="300" height="292"/>
+	<SubTexture name="PLUS0012" x="50" y="735" width="300" height="292"/>
+	<SubTexture name="PLUS0013" x="50" y="735" width="300" height="292"/>
+	<SubTexture name="PLUS0014" x="50" y="735" width="300" height="292"/>
+	<SubTexture name="S0000" x="400" y="735" width="292" height="293" pivotX="4.5" pivotY="8.65"/>
+	<SubTexture name="S0001" x="400" y="735" width="292" height="293"/>
+	<SubTexture name="S0002" x="742" y="735" width="292" height="293"/>
+	<SubTexture name="S0003" x="742" y="735" width="292" height="293"/>
+	<SubTexture name="S0004" x="1084" y="735" width="292" height="293"/>
+	<SubTexture name="S0005" x="1084" y="735" width="292" height="293"/>
+	<SubTexture name="S0006" x="1426" y="735" width="292" height="293"/>
+	<SubTexture name="S0007" x="1426" y="735" width="292" height="293"/>
+	<SubTexture name="S0008" x="1768" y="735" width="292" height="293"/>
+	<SubTexture name="S0009" x="1768" y="735" width="292" height="293"/>
+	<SubTexture name="S0010" x="1768" y="735" width="292" height="293"/>
+	<SubTexture name="S0011" x="1768" y="735" width="292" height="293"/>
+	<SubTexture name="S0012" x="1768" y="735" width="292" height="293"/>
+	<SubTexture name="S0013" x="1768" y="735" width="292" height="293"/>
+	<SubTexture name="S0014" x="1768" y="735" width="292" height="293"/>
+</TextureAtlas>

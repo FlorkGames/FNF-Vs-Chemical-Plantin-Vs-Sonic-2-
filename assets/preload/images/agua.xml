@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="agua.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="água0000" x="0" y="0" width="159" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="água0001" x="209" y="0" width="159" height="720"/>
+	<SubTexture name="água0002" x="418" y="0" width="159" height="720"/>
+	<SubTexture name="água0003" x="627" y="0" width="159" height="720"/>
+	<SubTexture name="água0004" x="836" y="0" width="159" height="720"/>
+	<SubTexture name="água0005" x="1045" y="0" width="159" height="720"/>
+	<SubTexture name="água0006" x="1254" y="0" width="159" height="720"/>
+	<SubTexture name="água0007" x="1463" y="0" width="159" height="720"/>
+	<SubTexture name="água0008" x="1672" y="0" width="159" height="720"/>
+	<SubTexture name="água0009" x="1881" y="0" width="159" height="720"/>
+	<SubTexture name="água0010" x="2090" y="0" width="159" height="720"/>
+	<SubTexture name="água0011" x="2299" y="0" width="159" height="720"/>
+	<SubTexture name="água0012" x="2508" y="0" width="159" height="720"/>
+	<SubTexture name="água0013" x="2717" y="0" width="159" height="720"/>
+	<SubTexture name="água0014" x="2926" y="0" width="159" height="720"/>
+	<SubTexture name="água0015" x="3135" y="0" width="159" height="720"/>
+	<SubTexture name="água0016" x="3344" y="0" width="159" height="720"/>
+	<SubTexture name="água0017" x="3553" y="0" width="159" height="720"/>
+	<SubTexture name="água0018" x="3762" y="0" width="159" height="720"/>
+	<SubTexture name="água0019" x="0" y="770" width="159" height="720"/>
+	<SubTexture name="água0020" x="209" y="770" width="159" height="720"/>
+	<SubTexture name="água0021" x="418" y="770" width="159" height="720"/>
+	<SubTexture name="água0022" x="627" y="770" width="159" height="720"/>
+	<SubTexture name="água0023" x="836" y="770" width="159" height="720"/>
+	<SubTexture name="água0024" x="1045" y="770" width="159" height="720"/>
+	<SubTexture name="água0025" x="1254" y="770" width="159" height="720"/>
+	<SubTexture name="água0026" x="1463" y="770" width="159" height="720"/>
+	<SubTexture name="água0027" x="1672" y="770" width="159" height="720"/>
+	<SubTexture name="água0028" x="1881" y="770" width="159" height="720"/>
+	<SubTexture name="água0029" x="2090" y="770" width="159" height="720"/>
+	<SubTexture name="água0030" x="2299" y="770" width="159" height="720"/>
+	<SubTexture name="água0031" x="2508" y="770" width="159" height="720"/>
+	<SubTexture name="água0032" x="2717" y="770" width="159" height="720"/>
+	<SubTexture name="água0033" x="2926" y="770" width="159" height="720"/>
+	<SubTexture name="água0034" x="3135" y="770" width="159" height="720"/>
+	<SubTexture name="água0035" x="3344" y="770" width="159" height="720"/>
+	<SubTexture name="água0036" x="3553" y="770" width="159" height="720"/>
+	<SubTexture name="água0037" x="3762" y="770" width="159" height="720"/>
+	<SubTexture name="água0038" x="0" y="1540" width="159" height="720"/>
+	<SubTexture name="água0039" x="209" y="1540" width="159" height="720"/>
+	<SubTexture name="água0040" x="418" y="1540" width="159" height="720"/>
+	<SubTexture name="água0041" x="627" y="1540" width="159" height="720"/>
+	<SubTexture name="água0042" x="836" y="1540" width="159" height="720"/>
+	<SubTexture name="água0043" x="1045" y="1540" width="159" height="720"/>
+	<SubTexture name="água0044" x="1254" y="1540" width="159" height="720"/>
+	<SubTexture name="água0045" x="1463" y="1540" width="159" height="720"/>
+	<SubTexture name="água0046" x="1672" y="1540" width="159" height="720"/>
+</TextureAtlas>
